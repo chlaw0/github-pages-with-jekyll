@@ -1,6 +1,5 @@
 theme: minima
-title: "My new blog"
-date: 2021-04-24
+
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
